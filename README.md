@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Dlunhappy226
 - 👀 I’m interested in games.
 - 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Website: https://dlun.tk[Website](https://dlun.tk)
 
 <!---
 Dlunhappy226/Dlunhappy226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
