@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dlunhappy226
-- 👀 I’m interested in games.
+- 👀 I’m interested in web application.
 - 🌱 I’m currently learning C#.
 - Website: https://dlun.tk
 <!---
